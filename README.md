@@ -1,1 +1,1 @@
-![Wakapi Stats](https://wakapi-stats.kalli.st/api/wakatime?username=lilo&api_domain=wa.kalli.st&bg_color=1b1b1b&title_color=ffe401&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi Stats&layout=compact##)
+![Wakapi Stats](https://wakapi-stats.kalli.st/api/wakatime?username=lilo&api_domain=wa.kalli.st&bg_color=1b1b1b&title_color=ffe401&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact##)
